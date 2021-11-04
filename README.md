@@ -2,7 +2,7 @@
 Honours dissertation project
 ---
 ## Related implementation
-- [wikilimo/mobile-pest-identification](https://github.com/wikilimo/mobile-pest-identification) --> the code looks promising! Let's try it!
+- [wikilimo/mobile-pest-identification](https://github.com/wikilimo/mobile-pest-identification) -- [folder_link]() --> the code looks promising! Let's try it!
 - 
 ---
 ## Datasets
