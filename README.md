@@ -6,7 +6,7 @@ Honours dissertation project
 - 
 ---
 ## Datasets
-- [IP102](https://github.com/xpwu95/IP102) [^1] --> The request was sent (xx/xx/2021) but no reply!
+- [IP102](https://github.com/xpwu95/IP102) [^1] --> The request was sent (07/10/2021) but no reply!
 
 
 ---
