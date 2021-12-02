@@ -1,8 +1,8 @@
 # insect-identification
 Honours dissertation project
 ---
-## Interm Demo
-- [ResNet training over Leeds butterfly dataset](https://colab.research.google.com/drive/1JqHID3-KIvsfbumllTjkLdK874SsaJNE?usp=sharing)
+## Interim Demo
+- [ResNet training over Leeds butterfly dataset](https://colab.research.google.com/drive/1JqHID3-KIvsfbumllTjkLdK874SsaJNE?usp=sharing) --> Seems to be working as expected!
 ---
 ## Related implementation
 - [wikilimo/mobile-pest-identification](https://github.com/wikilimo/mobile-pest-identification) -- [folder_link]() --> the code looks promising! Let's try it!
