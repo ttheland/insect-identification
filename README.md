@@ -7,7 +7,7 @@ Honours dissertation project
   - Add progress bar
   - Add metrics to handle imbalance dataset
   - Automatically download trained data after training
-- [ResNet inference over Leeds butterfly dataset]()
+- [ResNet inference over Leeds butterfly dataset](https://colab.research.google.com/drive/1c8VLUCzBIN1YQsZRbxZehzIvayy_TLSO?usp=sharing)
 ---
 ## Related implementation
 - [wikilimo/mobile-pest-identification](https://github.com/wikilimo/mobile-pest-identification) -- [folder_link]() --> the code looks promising! Let's try it!
