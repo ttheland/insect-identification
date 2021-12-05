@@ -3,6 +3,11 @@ Honours dissertation project
 ---
 ## Interim Demo
 - [ResNet training over Leeds butterfly dataset](https://colab.research.google.com/drive/1JqHID3-KIvsfbumllTjkLdK874SsaJNE?usp=sharing) --> Seems to be working as expected!
+- [ResNet training over Leeds butterfly dataset V2](https://colab.research.google.com/drive/1oSc3CjQWnoguIFReSTg5YSlTJ0R0v5LG?usp=sharing)
+  - Add progress bar
+  - Add metrics to handle imbalance dataset
+  - Automatically download trained data after training
+- [ResNet inference over Leeds butterfly dataset]()
 ---
 ## Related implementation
 - [wikilimo/mobile-pest-identification](https://github.com/wikilimo/mobile-pest-identification) -- [folder_link]() --> the code looks promising! Let's try it!
