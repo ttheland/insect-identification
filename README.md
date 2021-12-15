@@ -15,8 +15,8 @@ Honours dissertation project
 ---
 ## Datasets
 - [IP102](https://github.com/xpwu95/IP102) [^1] --> The request was sent (07/10/2021) but no reply!
-- [Leeds Butterfly Dataset](http://www.josiahwang.com/dataset/leedsbutterfly/)
-- [British Carabid Collection](https://zenodo.org/record/3549369#.XvI_jMfVLIU) [^2]
+- [Leeds Butterfly Dataset](http://www.josiahwang.com/dataset/leedsbutterfly/) - 832 images in 10 classes
+- [British Carabid Collection](https://zenodo.org/record/3549369#.XvI_jMfVLIU) [^2] - over 60k specimens in 100+ classes
 
 
 ---
