@@ -1,7 +1,7 @@
 # insect-identification
 Honours dissertation project.
 
-To-Do:
+## To-Do:
 - [X] Make to do list through GitHub
 - [ ] Include Wandb.ai in model training
 - [ ] Data split and organisation using sklearn
