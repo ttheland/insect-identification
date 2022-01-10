@@ -1,5 +1,15 @@
 # insect-identification
-Honours dissertation project
+Honours dissertation project.
+
+To-Do:
+[X] Make to do list through GitHub
+[ ] Include Wandb.ai in model training
+[ ] Data split and organisation using sklearn
+[ ] Dataset download from Drive (zipfile)
+[ ] Train model on iNaturalist Insecta subset using torchvision
+[ ] Improve current models' performance with data augmentation (random rotations)
+[ ] Train model on IP102 dataset
+
 ---
 ## Interim Demo
 - [ResNet training over Leeds butterfly dataset](https://colab.research.google.com/drive/1JqHID3-KIvsfbumllTjkLdK874SsaJNE?usp=sharing) --> Seems to be working as expected!
