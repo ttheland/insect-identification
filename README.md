@@ -4,7 +4,7 @@ Honours dissertation project.
 ## To-Do:
 - [X] Make to do list through GitHub
 - [ ] Arrange meeting for interim demo
-- [ ] Include Wandb.ai in model training
+- [ ] Include Wandb.ai in model training. https://colab.research.google.com/github/wandb/examples/blob/master/colabs/pytorch-lightning/Profile_PyTorch_Code.ipynb#scrollTo=LfbqxlHOFfPK
 - [ ] Data split and organisation using sklearn
 - [ ] Dataset download from Drive (zipfile)
 - [ ] Train model on iNaturalist Insecta subset using torchvision
