@@ -3,6 +3,7 @@ Honours dissertation project.
 
 ## To-Do:
 - [X] Make to do list through GitHub
+- [ ] Arrange meeting for interim demo
 - [ ] Include Wandb.ai in model training
 - [ ] Data split and organisation using sklearn
 - [ ] Dataset download from Drive (zipfile)
