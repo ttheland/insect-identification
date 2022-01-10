@@ -2,13 +2,13 @@
 Honours dissertation project.
 
 To-Do:
-[X] Make to do list through GitHub
-[ ] Include Wandb.ai in model training
-[ ] Data split and organisation using sklearn
-[ ] Dataset download from Drive (zipfile)
-[ ] Train model on iNaturalist Insecta subset using torchvision
-[ ] Improve current models' performance with data augmentation (random rotations)
-[ ] Train model on IP102 dataset
+- [X] Make to do list through GitHub
+- [ ] Include Wandb.ai in model training
+- [ ] Data split and organisation using sklearn
+- [ ] Dataset download from Drive (zipfile)
+- [ ] Train model on iNaturalist Insecta subset using torchvision
+- [ ] Improve current models' performance with data augmentation (random rotations)
+- [ ] Train model on IP102 dataset
 
 ---
 ## Interim Demo
