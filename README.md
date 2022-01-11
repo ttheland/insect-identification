@@ -9,6 +9,7 @@ Honours dissertation project.
 - [ ] Include Wandb.ai in model training. [Instructions](https://wandb.ai/quickstart/pytorch)
 - [ ] Data split and organisation using sklearn
 - [ ] Train model on iNaturalist Insecta subset using torchvision
+- [ ] Train model on complete British Carabid set
 - [ ] Improve current models' performance with data augmentation (random rotations)
 - [ ] Train model on IP102 dataset
 
