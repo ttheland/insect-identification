@@ -4,7 +4,7 @@ Honours dissertation project.
 ## To-Do:
 ### January 2022
 - [X] Make to do list through GitHub
-- [X] Arrange meeting for interim demo
+- [X] Arrange meeting for interim demo (21.1.2022 10am)
 - [ ] Include Wandb.ai in model training. [Instructions](https://wandb.ai/quickstart/pytorch)
 - [ ] Data split and organisation using sklearn
 - [ ] Dataset download from Drive (zipfile)
