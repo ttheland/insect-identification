@@ -5,9 +5,9 @@ Honours dissertation project.
 ### January 2022
 - [X] Make to do list through GitHub
 - [X] Arrange meeting for interim demo (21.1.2022 10am)
+- [X] Dataset download from Drive (zipfile)
 - [ ] Include Wandb.ai in model training. [Instructions](https://wandb.ai/quickstart/pytorch)
 - [ ] Data split and organisation using sklearn
-- [ ] Dataset download from Drive (zipfile)
 - [ ] Train model on iNaturalist Insecta subset using torchvision
 - [ ] Improve current models' performance with data augmentation (random rotations)
 - [ ] Train model on IP102 dataset
