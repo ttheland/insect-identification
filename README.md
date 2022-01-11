@@ -2,7 +2,7 @@
 Honours dissertation project.
 
 ## To-Do:
-- January 2022
+### January 2022
 - [X] Make to do list through GitHub
 - [X] Arrange meeting for interim demo
 - [ ] Include Wandb.ai in model training. [Instructions](https://wandb.ai/quickstart/pytorch)
