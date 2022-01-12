@@ -6,10 +6,10 @@ Honours dissertation project.
 - [X] Make to do list through GitHub
 - [X] Arrange meeting for interim demo (21.1.2022 10am)
 - [X] Dataset download from Drive (zipfile)
-- [ ] Include Wandb.ai in model training. [Instructions](https://wandb.ai/quickstart/pytorch)
-- [ ] Data split and organisation using sklearn
+- [X] Include Wandb.ai in model training. [Instructions](https://wandb.ai/quickstart/pytorch)
+- [X] Data split and organisation programmatically
+- [X] Train model on complete British Carabid set
 - [ ] Train model on iNaturalist Insecta subset using torchvision
-- [ ] Train model on complete British Carabid set
 - [ ] Improve current models' performance with data augmentation (random rotations)
 - [ ] Train model on IP102 dataset
 
