@@ -16,7 +16,7 @@ Honours dissertation project.
 ---
 ## Interim Demo
 - [ResNet training over Leeds butterfly dataset](https://colab.research.google.com/drive/1JqHID3-KIvsfbumllTjkLdK874SsaJNE?usp=sharing) --> Seems to be working as expected!
-- [ResNet training over Leeds butterfly dataset V2](https://colab.research.google.com/drive/1oSc3CjQWnoguIFReSTg5YSlTJ0R0v5LG?usp=sharing)
+- [ResNet training over Leeds butterfly dataset V2](https://colab.research.google.com/drive/1NaDv2CKRmSXBhmNzefaneiW2hQF0qy_T?usp=sharing)
   - Add progress bar
   - Add metrics to handle imbalance dataset
   - Automatically download trained data after training
