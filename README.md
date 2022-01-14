@@ -24,7 +24,7 @@ Honours dissertation project.
 - [ResNet inference over Leeds butterfly dataset](https://colab.research.google.com/drive/1c8VLUCzBIN1YQsZRbxZehzIvayy_TLSO?usp=sharing)
 - [ResNet training with the British Carabid Collection (7 classes version)](https://colab.research.google.com/drive/16oIcx00ae0xaplaCDcvFyCOrd8zcLKLM?usp=sharing) --> Training completed 03/01/22
 - [Training with the full IP102](https://colab.research.google.com/drive/1uCMSaN3Xq_CiHeduMSPDhU1hi-STMkER?usp=sharing) -- In Progress
-- [Training with the full British Carabid Collection](https://colab.research.google.com/drive/1d4mfJhuquR0AEMNnJK8Xet-4_RD8ooCW?usp=sharing) -> [Latest results on WandB](https://wandb.ai/mawady-stirling/insect_carabids/runs/lsudk473)
+- [Training with the full British Carabid Collection](https://colab.research.google.com/drive/1d4mfJhuquR0AEMNnJK8Xet-4_RD8ooCW?usp=sharing) -> [Latest results on WandB](https://wandb.ai/mawady-stirling/insect_carabids/runs/lsudk473/overview)
 - [Inference over 7-class Carabid dataset](https://colab.research.google.com/drive/1lhOWyEJ9Y9N2nN4qeGGJ5_ISNnAHv8Bm?usp=sharing) --> Works great on the test set. So-so performance on images from the wild.
 ---
 ## Related implementation
