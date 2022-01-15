@@ -1,4 +1,4 @@
-## PyTorch image classification - A pretrained ResNet18 trained on the Leeds Butterfly Dataset
+## PyTorch image classification - A pretrained ResNet18 CNN trained on the Leeds Butterfly Dataset
 
 [The Leeds Butterfly Dataset](http://www.josiahwang.com/dataset/leedsbutterfly/) consists of 832 images in 10 classes:
 - Danaus plexippus - Monarch 
