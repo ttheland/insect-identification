@@ -12,6 +12,8 @@ Honours dissertation project.
 - [X] Train model on complete British Carabid set
 - [ ] Train model on IP102 dataset
 - [ ] Implement better ways to evaluate model performance on test sets
+    * [ ] Table showing average per-class F1 and acc.
+    * [ ] [Confusion matrix with Seaborn](https://stackoverflow.com/questions/35572000/how-can-i-plot-a-confusion-matrix)
 - [ ] Train model on iNaturalist Insecta subset using torchvision
 - [ ] Improve current models' performance with data augmentation (random rotations)
 
