@@ -15,6 +15,7 @@ Honours dissertation project.
 - [ ] Implement better ways to evaluate model performance on test sets
     * [ ] Table showing average per-class F1 and acc.
     * [ ] [Confusion matrix with Seaborn](https://stackoverflow.com/questions/35572000/how-can-i-plot-a-confusion-matrix)
+- [ ] Finish poster for session in February
 - [ ] Train model on iNaturalist Insecta subset using torchvision
 
 ---
