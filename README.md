@@ -7,7 +7,7 @@ Honours dissertation project.
 - [X] Arrange meeting for interim demo (21.1.2022 10am)
 - [X] Dataset download from Drive (zipfile)
 - [X] Include Wandb.ai in model training. [Instructions](https://wandb.ai/quickstart/pytorch)
-    * [ ] Ensure hyperparameters are logged for the Carabid training
+    * [X] Ensure hyperparameters are logged for the Carabid training
 - [X] Data split and organisation programmatically
 - [X] Train model on complete British Carabid set
     * [X] Improve model performance with data augmentation (random rotations)
