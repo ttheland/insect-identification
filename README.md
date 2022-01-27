@@ -11,6 +11,7 @@ Honours dissertation project.
 - [X] Data split and organisation programmatically
 - [X] Train model on complete British Carabid set
     * [X] Improve model performance with data augmentation (random rotations)
+- [ ] Make the repository public
 - [ ] Train model on IP102 dataset
 - [ ] Implement better ways to evaluate model performance on test sets
     * [ ] Table showing average per-class F1 and acc.
