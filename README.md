@@ -11,12 +11,14 @@ Honours dissertation project.
 - [X] Data split and organisation programmatically
 - [X] Train model on complete British Carabid set
     * [X] Improve model performance with data augmentation (random rotations)
-- [ ] Make the repository public
+- [X] Finish poster for session in February
+- [ ] Finish Inference and Gradio demo for Carabid model
 - [ ] Train model on IP102 dataset
+    * [ ] dataset split using `os.symlink()`
+- [ ] Make the repository public
 - [ ] Implement better ways to evaluate model performance on test sets
     * [ ] Table showing average per-class F1 and acc.
     * [ ] [Confusion matrix with Seaborn](https://stackoverflow.com/questions/35572000/how-can-i-plot-a-confusion-matrix)
-- [ ] Finish poster for session in February
 - [ ] Train model on iNaturalist Insecta subset using torchvision
 
 ---
