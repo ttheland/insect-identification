@@ -2,6 +2,16 @@
 Honours dissertation project.
 
 ## To-Do:
+### February 2022
+- [ ] Finish Inference and Gradio demo for Carabid model
+- [ ] Train model on IP102 dataset
+    * [ ] dataset split using `os.symlink()`
+- [ ] Make the repository public
+- [ ] Implement better ways to evaluate model performance on test sets
+    * [ ] Table showing average per-class F1 and acc.
+    * [ ] [Confusion matrix with Seaborn](https://stackoverflow.com/questions/35572000/how-can-i-plot-a-confusion-matrix)
+- [ ] Train model on iNaturalist Insecta subset using torchvision
+
 ### January 2022
 - [X] Make to do list through GitHub
 - [X] Arrange meeting for interim demo (21.1.2022 10am)
@@ -12,14 +22,6 @@ Honours dissertation project.
 - [X] Train model on complete British Carabid set
     * [X] Improve model performance with data augmentation (random rotations)
 - [X] Finish poster for session in February
-- [ ] Finish Inference and Gradio demo for Carabid model
-- [ ] Train model on IP102 dataset
-    * [ ] dataset split using `os.symlink()`
-- [ ] Make the repository public
-- [ ] Implement better ways to evaluate model performance on test sets
-    * [ ] Table showing average per-class F1 and acc.
-    * [ ] [Confusion matrix with Seaborn](https://stackoverflow.com/questions/35572000/how-can-i-plot-a-confusion-matrix)
-- [ ] Train model on iNaturalist Insecta subset using torchvision
 
 ---
 
