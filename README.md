@@ -29,7 +29,8 @@ Honours dissertation project.
 - Do anlysis using different lightweight classification models (e.g. resnet18, shufflenet, squeezenet, mobilenetv3), with option of quantization.
 - Try one-class detection models (e.g. YoloV3, YoloV4, YoloV5, SSD, Retinanet) before classification for accurate recognition results.
 - For experimentation, use Wandb.
-- For demo, use huggingface with Gradio. 
+- For demo, use huggingface with Gradio.
+- [Demo for weighted accruacy / better visualization](https://colab.research.google.com/drive/1Jsdfmc4Xd3gJYui2VLXfUfHnOOMJnJAE?usp=sharing)
 
 ---
 
