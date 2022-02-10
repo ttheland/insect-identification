@@ -3,9 +3,9 @@ Honours dissertation project.
 
 ## To-Do:
 ### February 2022
-- [ ] Finish Inference and Gradio demo for Carabid model
 - [ ] Train model on IP102 dataset
     * [ ] dataset split using `os.symlink()`
+- [ ] Finish Inference and Gradio demo for Carabid model
 - [ ] Make the repository public
 - [ ] Implement better ways to evaluate model performance on test sets
     * [ ] Table showing average per-class F1 and acc.
