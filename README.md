@@ -4,13 +4,16 @@ Honours dissertation project.
 ## To-Do:
 ### February 2022
 - [ ] Train model on IP102 dataset
-    * [ ] dataset split using `os.symlink()`
+    * [ ] dataset split using `os.symlink()` on Colab
+    * [X] dataset split using `os.symlink()` locally
 - [ ] Finish Inference and Gradio demo for Carabid model
 - [ ] Make the repository public
 - [ ] Implement better ways to evaluate model performance on test sets
     * [ ] Table showing average per-class F1 and acc.
     * [ ] [Confusion matrix with Seaborn](https://stackoverflow.com/questions/35572000/how-can-i-plot-a-confusion-matrix)
 - [ ] Train model on iNaturalist Insecta subset using torchvision
+- [X] Implemented better accuracy logging and visualisation on the carabid model
+    * [ ] Known issue with not all metrics being logged 
 
 ### January 2022
 - [X] Make to do list through GitHub
@@ -48,7 +51,9 @@ Honours dissertation project.
 
 ---
 ## Gradio demo notebooks
-- [Butterfly demo](https://colab.research.google.com/drive/1bfiqPwL-ueeRDCy_Atl-fmKfhHYo0KnS?usp=sharing)
+- [Butterfly demo code](https://colab.research.google.com/drive/1bfiqPwL-ueeRDCy_Atl-fmKfhHYo0KnS?usp=sharing)
+## Demos running on HuggingFace:
+- [Butterfly demo](https://huggingface.co/spaces/ttheland/demo-butterfly-spaces)
 ---
 ## Datasets
 - [IP102](https://github.com/xpwu95/IP102) [^1] (Classification: > 75,000 images in 102 classes, Detection: 19,000 images) --> The request was sent (07/10/2021) but no reply! The dataset can be downloaded from this [[link](https://drive.google.com/drive/folders/1svFSy2Da3cVMvekBwe13mzyx38XZ9xWo?usp=sharing)]
