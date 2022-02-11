@@ -52,6 +52,8 @@ Honours dissertation project.
 ---
 ## Gradio demo notebooks
 - [Butterfly demo](https://colab.research.google.com/drive/1bfiqPwL-ueeRDCy_Atl-fmKfhHYo0KnS?usp=sharing)
+## Demos running on HuggingFace:
+- [Butterfly demo](https://huggingface.co/spaces/ttheland/demo-butterfly-spaces)
 ---
 ## Datasets
 - [IP102](https://github.com/xpwu95/IP102) [^1] (Classification: > 75,000 images in 102 classes, Detection: 19,000 images) --> The request was sent (07/10/2021) but no reply! The dataset can be downloaded from this [[link](https://drive.google.com/drive/folders/1svFSy2Da3cVMvekBwe13mzyx38XZ9xWo?usp=sharing)]
