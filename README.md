@@ -7,6 +7,7 @@ Honours dissertation project.
     * [ ] dataset split using `os.symlink()` on Colab
     * [X] dataset split using `os.symlink()` locally
 - [ ] Finish Inference and Gradio demo for Carabid model
+- [ ] Include model type in WandB logging
 - [ ] Make the repository public
 - [ ] Implement better ways to evaluate model performance on test sets
     * [ ] Table showing average per-class F1 and acc.
