@@ -11,6 +11,8 @@ Honours dissertation project.
     * [ ] Table showing average per-class F1 and acc.
     * [ ] [Confusion matrix with Seaborn](https://stackoverflow.com/questions/35572000/how-can-i-plot-a-confusion-matrix)
 - [ ] Train model on iNaturalist Insecta subset using torchvision
+- [X] Implemented better accuracy logging and visualisation on the carabid model
+    * [ ] Known issue with not all metrics being logged 
 
 ### January 2022
 - [X] Make to do list through GitHub
