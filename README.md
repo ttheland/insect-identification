@@ -51,7 +51,7 @@ Honours dissertation project.
 
 ---
 ## Gradio demo notebooks
-- [Butterfly demo](https://colab.research.google.com/drive/1bfiqPwL-ueeRDCy_Atl-fmKfhHYo0KnS?usp=sharing)
+- [Butterfly demo code](https://colab.research.google.com/drive/1bfiqPwL-ueeRDCy_Atl-fmKfhHYo0KnS?usp=sharing)
 ## Demos running on HuggingFace:
 - [Butterfly demo](https://huggingface.co/spaces/ttheland/demo-butterfly-spaces)
 ---
