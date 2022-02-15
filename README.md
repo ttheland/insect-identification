@@ -7,7 +7,6 @@ Honours dissertation project.
     * [ ] dataset split using `os.symlink()` on Colab
     * [X] dataset split using `os.symlink()` locally
 - [ ] Finish Inference and Gradio demo for Carabid model
-- [ ] Begin working on report
 - [ ] Include model type in WandB logging
 - [ ] Make the repository public
 - [ ] Implement better ways to evaluate model performance on test sets
@@ -16,6 +15,7 @@ Honours dissertation project.
 - [ ] Train model on iNaturalist Insecta subset using torchvision
 - [X] Implemented better accuracy logging and visualisation on the carabid model
     * [ ] Known issue with not all metrics being logged 
+- [X] Begin working on report
 
 ### January 2022
 - [X] Make to do list through GitHub
