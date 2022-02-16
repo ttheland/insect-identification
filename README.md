@@ -8,13 +8,14 @@ Honours dissertation project.
     * [X] dataset split using `os.symlink()` locally
 - [ ] Finish Inference and Gradio demo for Carabid model
 - [ ] Include model type in WandB logging
-- [ ] Make the repository public
 - [ ] Implement better ways to evaluate model performance on test sets
     * [ ] Table showing average per-class F1 and acc.
     * [ ] [Confusion matrix with Seaborn](https://stackoverflow.com/questions/35572000/how-can-i-plot-a-confusion-matrix)
 - [ ] Train model on iNaturalist Insecta subset using torchvision
+- [X] Make the repository public
+    * Colab notebooks set to anyone with the link can view only
 - [X] Implemented better accuracy logging and visualisation on the carabid model
-    * [ ] Known issue with not all metrics being logged 
+    * [X] Known issue with not all metrics being logged 
 - [X] Begin working on report
 
 ### January 2022
