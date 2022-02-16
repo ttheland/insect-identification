@@ -5,7 +5,7 @@ Insect identification from user images in the wild. Built with Python, PyTorch. 
 ### February 2022
 - [ ] Train model on IP102 dataset
     * [ ] dataset split using `os.symlink()` on Colab
-    * [X] dataset split using `os.symlink()` locally
+    * [X] dataset split using `os.symlink()` locally. Available at [link](https://github.com/ttheland/insect-identification/blob/main/code/symlink.ipynb)
 - [ ] Finish Inference and Gradio demo for Carabid model
 - [ ] Include model type in WandB logging
 - [ ] Implement better ways to evaluate model performance on test sets
