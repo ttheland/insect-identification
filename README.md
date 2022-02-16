@@ -1,5 +1,5 @@
 # insect-identification
-Honours dissertation project.
+Insect identification from user images in the wild. Built with Python, PyTorch. Honours dissertation project.
 
 ## To-Do:
 ### February 2022
