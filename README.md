@@ -4,14 +4,15 @@ Insect identification from user images in the wild. Built with Python, PyTorch. 
 ## To-Do:
 ### February 2022
 - [ ] Train model on IP102 dataset
-    * [ ] dataset split using `os.symlink()` on Colab
+    * [X] dataset split using `os.symlink()` on Colab
     * [X] dataset split using `os.symlink()` locally. Available at [link](https://github.com/ttheland/insect-identification/blob/main/code/symlink.ipynb)
 - [ ] Finish Inference and Gradio demo for Carabid model
-- [ ] Include model type in WandB logging
+- [X] Include model type in WandB logging
 - [ ] Implement better ways to evaluate model performance on test sets
     * [ ] Table showing average per-class F1 and acc.
     * [ ] [Confusion matrix with Seaborn](https://stackoverflow.com/questions/35572000/how-can-i-plot-a-confusion-matrix)
 - [ ] Train model on iNaturalist Insecta subset using torchvision
+- [X] Include model type in WandB logging
 - [X] Make the repository public
     * Colab notebooks set to anyone with the link can view only
 - [X] Implemented better accuracy logging and visualisation on the carabid model
