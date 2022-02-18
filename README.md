@@ -41,7 +41,7 @@ Insect identification from user images in the wild. Built with Python, PyTorch. 
 
 ---
 
-## Interim Demo
+## Colab Notebooks
 - [ResNet training over Leeds butterfly dataset](https://colab.research.google.com/drive/1JqHID3-KIvsfbumllTjkLdK874SsaJNE?usp=sharing) --> Seems to be working as expected!
 - [ResNet training over Leeds butterfly dataset V2](https://colab.research.google.com/drive/1NaDv2CKRmSXBhmNzefaneiW2hQF0qy_T?usp=sharing)
   - Add progress bar
