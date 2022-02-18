@@ -39,6 +39,7 @@ Insect identification from user images in the wild. Built with Python, PyTorch. 
 - For demo, use huggingface with Gradio.
 - [Demo for weighted accruacy / better visualization](https://colab.research.google.com/drive/1Jsdfmc4Xd3gJYui2VLXfUfHnOOMJnJAE?usp=sharing)
 - survey of lightweight model performance on insect classification
+- save model state on W&B artifacts [Link](https://wandb.ai/wandb/common-ml-errors/reports/How-to-Save-and-Load-Models-in-PyTorch--VmlldzozMjg0MTE)
 
 ---
 
