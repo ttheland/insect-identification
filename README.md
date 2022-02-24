@@ -8,7 +8,7 @@ Insect identification from user images in the wild. Built with Python, PyTorch. 
     * [ ] Table showing average per-class F1 and acc.
     * [ ] [Confusion matrix with Seaborn](https://stackoverflow.com/questions/35572000/how-can-i-plot-a-confusion-matrix)
 - [ ] Train model on iNaturalist Insecta subset using torchvision
-- [X] [Training with IP102](https://colab.research.google.com/drive/1uCMSaN3Xq_CiHeduMSPDhU1hi-STMkER?usp=sharing) -> [Results on W&B](https://wandb.ai/mawady-stirling/insect_IP102)
+- [X] [Training with IP102](https://colab.research.google.com/drive/1uCMSaN3Xq_CiHeduMSPDhU1hi-STMkER?usp=sharing) -> [Results on W&B](https://wandb.ai/mawady-stirling/insect_IP102) -> 75% accuracy over test set
     * [ ] Hyperparameter tuning
     * [X] dataset split using `os.symlink()` on Colab
     * [X] dataset split using `os.symlink()` locally. Available at [link](https://github.com/ttheland/insect-identification/blob/main/code/symlink.ipynb)
