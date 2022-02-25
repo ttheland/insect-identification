@@ -62,7 +62,7 @@ Insect identification from user images in the wild. Built with Python, PyTorch. 
 - [Butterfly demo](https://huggingface.co/spaces/ttheland/demo-butterfly-spaces)
 ---
 ## Datasets
-- [IP102](https://github.com/xpwu95/IP102) [^1] (Classification: > 75,000 images in 102 classes, Detection: 19,000 images) --> The request was sent (07/10/2021) but no reply! The dataset can be downloaded from this [[link](https://drive.google.com/drive/folders/1svFSy2Da3cVMvekBwe13mzyx38XZ9xWo?usp=sharing)]
+- [IP102](https://github.com/xpwu95/IP102) [^1] (Classification: > 75,000 images in 102 classes, Detection: 19,000 images) --> The dataset can be downloaded from this [[link](https://drive.google.com/drive/folders/1svFSy2Da3cVMvekBwe13mzyx38XZ9xWo?usp=sharing)]
 - [Leeds Butterfly Dataset](http://www.josiahwang.com/dataset/leedsbutterfly/) (Classification: 832 images in 10 classes)
 - [British Carabid Collection](https://zenodo.org/record/3549369#.XvI_jMfVLIU) [^2] - (Classification: > 60k specimens in 291 classes)
 - [iNaturalist2021 insect subset](https://github.com/visipedia/inat_comp/tree/master/2021) (Classification: 688,942 insect images in 2,526 classes). available through [torchvision](https://pytorch.org/vision/stable/datasets.html#inaturalist).
