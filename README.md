@@ -8,8 +8,6 @@ Insect identification from user images in the wild. Built with Python, PyTorch. 
 - [ ] Finish dissertation draft for review in early April
 
 ### February 2022
-- [ ] Finish Inference and Gradio demo for Carabid model
-- [ ] Train model on iNaturalist Insecta subset using torchvision
 - [X] Implement better ways to evaluate model performance on test sets
     * [X] Table showing average per-class F1 and acc.
     * [X] [Confusion matrix with Seaborn](https://stackoverflow.com/questions/35572000/how-can-i-plot-a-confusion-matrix)
