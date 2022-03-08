@@ -2,6 +2,11 @@
 Insect identification from user images in the wild. Built with Python, PyTorch. Honours dissertation project.
 
 ## To-Do:
+### March 2022
+- [ ] Finish Inference and Gradio demo for Carabid model
+- [ ] Train model on iNaturalist Insecta subset using torchvision
+- [ ] Finish dissertation draft for review in early April
+
 ### February 2022
 - [ ] Finish Inference and Gradio demo for Carabid model
 - [ ] Train model on iNaturalist Insecta subset using torchvision
