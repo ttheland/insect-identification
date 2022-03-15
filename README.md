@@ -3,7 +3,8 @@ Insect identification from user images in the wild. Built with Python, PyTorch. 
 
 ## To-Do:
 ### March 2022
-- [ ] Finish Inference and Gradio demo for Carabid model
+- [X] Finish Inference for Carabid model
+    * [ ] Make Gradio demo
 - [ ] Train other types of models over Leeds, Carabids, IP102 datasets
 - [ ] Train model on iNaturalist Insecta subset using torchvision
     * [ ] Train model on mini version of the Insecta subset (50 images per species)
