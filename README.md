@@ -61,6 +61,7 @@ Insect identification from user images in the wild. Built with Python, PyTorch. 
 - [Training with the full British Carabid Collection](https://colab.research.google.com/drive/1d4mfJhuquR0AEMNnJK8Xet-4_RD8ooCW?usp=sharing) -> [Latest results on WandB](https://wandb.ai/mawady-stirling/insect_carabids/overview)
 - [Inference over 7-class Carabid dataset](https://colab.research.google.com/drive/1lhOWyEJ9Y9N2nN4qeGGJ5_ISNnAHv8Bm?usp=sharing)
 - [Inference over entire Carabid set](https://colab.research.google.com/drive/1lhOWyEJ9Y9N2nN4qeGGJ5_ISNnAHv8Bm)
+- [iNat2021_mini](https://colab.research.google.com/drive/14YRnjzAJ7hm8F8V9S6lCQ3I0ZxQIWYEp) 
 ---
 ## Gradio demo notebooks
 - [Butterfly demo code](https://colab.research.google.com/drive/1bfiqPwL-ueeRDCy_Atl-fmKfhHYo0KnS?usp=sharing)
