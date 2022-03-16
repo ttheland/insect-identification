@@ -9,7 +9,7 @@ Insect identification from user images in the wild. Built with Python, PyTorch. 
 - [ ] Train model on iNaturalist Insecta subset using torchvision
     * [X] Train model on mini version of the Insecta subset (50 images per species)
 - [ ] Prepare slides for project presentation session
-- [ ] Finish dissertation draft for review in early April
+- [ ] Finish dissertation report draft for review in early April
 
 ### February 2022
 - [X] Implement better ways to evaluate model performance on test sets
