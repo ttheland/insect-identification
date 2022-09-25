@@ -1,54 +1,6 @@
 # insect-identification
 Insect identification from user images in the wild. Built with Python, PyTorch. Honours dissertation project.
 
-## To-Do:
-### March 2022
-- [X] Finish Inference for Carabid model
-    * [ ] Make Gradio demo
-- [X] Train other types of models over Leeds, Carabids, IP102 datasets
-- [ ] Train model on iNaturalist Insecta subset using torchvision
-    * [X] Train model on mini version of the Insecta subset (50 images per species)
-- [X] Finish dissertation report draft for review in early April
-- [X] Prepare slides for project presentation session
-
-### February 2022
-- [X] Implement better ways to evaluate model performance on test sets
-    * [X] Table showing average per-class F1 and acc.
-    * [X] [Confusion matrix with Seaborn](https://stackoverflow.com/questions/35572000/how-can-i-plot-a-confusion-matrix)
-- [X] [Training with IP102](https://colab.research.google.com/drive/1uCMSaN3Xq_CiHeduMSPDhU1hi-STMkER?usp=sharing) -> [Results on W&B](https://wandb.ai/mawady-stirling/insect_IP102) -> 55% accuracy over test set
-    * [X] Hyperparameter tuning
-    * [X] dataset split using `os.symlink()` on Colab
-    * [X] dataset split using `os.symlink()` locally. Available at [link](https://github.com/ttheland/insect-identification/blob/main/code/symlink.ipynb)
-- [X] Include model type in WandB logging
-- [X] Make the repository public
-    * Colab notebooks set to anyone with the link can view only
-- [X] Implemented better accuracy logging and visualisation on the carabid model
-    * [X] Known issue with not all metrics being logged 
-- [X] Begin working on report
-
-### January 2022
-- [X] Make to do list through GitHub
-- [X] Arrange meeting for interim demo (21.1.2022 10am)
-- [X] Dataset download from Drive (zipfile)
-- [X] Include Wandb.ai in model training. [Instructions](https://wandb.ai/quickstart/pytorch)
-    * [X] Ensure hyperparameters are logged for the Carabid training
-- [X] Data split and organisation programmatically
-- [X] Train model on complete British Carabid set
-    * [X] Improve model performance with data augmentation (random rotations)
-- [X] Finish poster for session in February
-
----
-
-## Notes from supervisor:
-- Do anlysis using different lightweight classification models (e.g. resnet18, shufflenet, squeezenet, mobilenetv3), with option of quantization.
-- Try one-class detection models (e.g. YoloV3, YoloV4, YoloV5, SSD, Retinanet) before classification for accurate recognition results.
-- For experimentation, use Wandb.
-- For demo, use huggingface with Gradio.
-- [Demo for weighted accruacy / better visualization](https://colab.research.google.com/drive/1Jsdfmc4Xd3gJYui2VLXfUfHnOOMJnJAE?usp=sharing)
-- survey of lightweight model performance on insect classification
-- save model state on W&B artifacts [Link](https://wandb.ai/wandb/common-ml-errors/reports/How-to-Save-and-Load-Models-in-PyTorch--VmlldzozMjg0MTE)
-
----
 
 ## Colab Notebooks
 - [ResNet training over Leeds butterfly dataset](https://colab.research.google.com/drive/1JqHID3-KIvsfbumllTjkLdK874SsaJNE?usp=sharing) --> Seems to be working as expected!
