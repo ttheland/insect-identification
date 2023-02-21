@@ -1,5 +1,6 @@
 # insect-identification
-Insect identification from user images in the wild. Built with Python, PyTorch, [Weights and Biases}(https://docs.wandb.ai/) First Class Honours dissertation project.
+Insect identification from user images in the wild. Built with Python, PyTorch, [Weights and Biases](https://docs.wandb.ai/)
+First Class Honours dissertation project.
 
 
 ## Colab Notebooks
