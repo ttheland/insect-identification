@@ -3,6 +3,7 @@ Insect identification from user images in the wild. Built with Python, PyTorch, 
 First Class Honours dissertation project.
 
 # IF YOU WANT TO USE THE COLAB NOTEBOOKS, MAKE A COPY! DON'T REQUEST ACCESS TO MINE. lol
+File -> Save a copy to Drive.
 ## Colab Notebooks
 - [ResNet training over Leeds butterfly dataset](https://colab.research.google.com/drive/1JqHID3-KIvsfbumllTjkLdK874SsaJNE?usp=sharing)
 - [ResNet training over Leeds butterfly dataset V2](https://colab.research.google.com/drive/1NaDv2CKRmSXBhmNzefaneiW2hQF0qy_T?usp=sharing)
