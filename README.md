@@ -1,3 +1,4 @@
+# IF YOU WANT TO USE THE NOTEBOOKS, MAKE A COPY! DON'T REQUEST ACCESS TO MINE. lol
 # insect-identification
 Insect identification from user images in the wild. Built with Python, PyTorch, [Weights and Biases](https://docs.wandb.ai/).
 First Class Honours dissertation project.
